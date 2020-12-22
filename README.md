@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app. Throughout creating this app, a challenge I faced was using built in hotkeys in android studio to import libraries as well as write specific functions.
+I struggled a bit to get the android app to run. Ended up researching some of the built in hotkeys and import libraries in Android Studio before I found the solutions in the comments section of video tutorials.
 
 ## License
 
