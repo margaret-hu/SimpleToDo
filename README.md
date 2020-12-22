@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-I struggled a bit to get the android app to run. Ended up researching some of the built in hotkeys and import libraries in Android Studio before I found the solutions in the comments section of video tutorials.
+I struggled a bit to get the android app to run. I ended up researching some of the built-in hotkeys and import libraries in Android Studio before I found the solutions in the comments section of video tutorials.
 
 ## License
 
